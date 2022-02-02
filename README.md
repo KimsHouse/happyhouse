@@ -21,7 +21,8 @@
 
 <hr>
 
-![home](/uploads/007df4703d9e519933668ab547806092/home.JPG)
+![home](https://user-images.githubusercontent.com/89397726/152199837-44b6a355-530d-4b8a-85c8-823a7812b498.JPG)
+
 
 홈페이지에 접속하면 맨 처음 나오는 메인 페이지입니다.
 
