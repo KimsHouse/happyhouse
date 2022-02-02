@@ -70,3 +70,52 @@
 
 
 현 위치의 편의시설 정보가 출력됩니다.
+
+<hr>
+
+### 6. 게시판 글목록 확인
+
+<hr>
+
+![게시판글목록](https://user-images.githubusercontent.com/89397726/152200652-2fecf315-ddf8-4b07-971f-09fb0dc0b82a.JPG)
+
+현재 게시판 목록을 확인할 수 있습니다.
+
+<hr>
+
+### 7. 게시판 글보기
+
+<hr>
+
+![게시판글보기](https://user-images.githubusercontent.com/89397726/152200762-b0a0dbb7-81ec-4f59-9fac-93a4c3610278.JPG)
+
+게시판에 작성된 특정 글 제목을 클릭하면 해당 글을 확인할 수 있습니다.
+
+<hr>
+
+### 8. 게시판 글수정
+<hr>
+
+![게시판글수정](https://user-images.githubusercontent.com/89397726/152200915-86aef182-c675-4a79-af6d-c46f57419179.JPG)
+
+본인이 작성한 게시판에 존재하는 글을 수정할 수 있습니다.
+
+<hr>
+
+### 9. 게시판 글작성
+
+<hr>
+
+![게시판글작성](https://user-images.githubusercontent.com/89397726/152200998-b96527ed-ddf4-45f4-8def-58ee90dfa5e1.JPG)
+
+게시판에 글을 등록할 수 있습니다.
+
+<hr>
+
+### 10. 게시판 댓글
+
+<hr>
+
+![게시판댓글](https://user-images.githubusercontent.com/89397726/152201064-d503cc3e-cea6-4bb7-88b3-f246e64550d1.JPG)
+
+게시판에 작성된 글에 댓글을 작성할 수 있습니다.
