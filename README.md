@@ -21,7 +21,7 @@
 
 <hr>
 
-![home.JPG](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0598f942-2c24-4466-b3c3-f182595b7c64/home.jpg)
+![home](/uploads/007df4703d9e519933668ab547806092/home.JPG)
 
 홈페이지에 접속하면 맨 처음 나오는 메인 페이지입니다.
 
